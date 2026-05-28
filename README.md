@@ -53,7 +53,7 @@ The rendering system supports:
 Routes between intersections are calculated using graph search methods:
 
 - **Dijkstra’s Algorithm** for shortest path calculation  
-- **A\*** search to speed up route finding using a heuristic toward the destination
+- **A\* Algorithm** for heuristic-based route optimization toward the destination 
   
 ---
 
@@ -84,4 +84,4 @@ Routes between intersections are calculated using graph search methods:
 <img width="500" alt="map15" src="https://github.com/user-attachments/assets/c3ebe844-3b4d-4591-80ce-c56a21ee208f" />
 
 ### Pathfinding
-<img width="600" alt="map16" src="https://github.com/user-attachments/assets/67fe3687-423e-4f1c-b5b9-77d9aed1177b" />
+<img width="500" alt="map16" src="https://github.com/user-attachments/assets/67fe3687-423e-4f1c-b5b9-77d9aed1177b" />
